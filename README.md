@@ -1,2 +1,2 @@
 # PersonelKayıtProjesi
-QL öğrenme sürecimde geliştirdiğim C# tabanlı personel kayıt projesi.
+SQL öğrenme sürecimde geliştirdiğim C# tabanlı personel kayıt projesi.
